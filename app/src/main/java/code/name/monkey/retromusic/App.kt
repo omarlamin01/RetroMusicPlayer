@@ -40,11 +40,10 @@ class App : Application() {
             androidContext(this@App)
             modules(appModules)
         }
-
         // default theme
         if (!ThemeStore.isConfigured(this, 3)) {
             ThemeStore.editTheme(this)
-                .accentColorRes(code.name.monkey.appthemehelper.R.color.spotify_green)
+                .accentColorRes(code.name.monkey.appthemehelper.R.color.md_deep_purple_A200)
                 .coloredNavigationBar(true)
                 .commit()
         }
