@@ -38,4 +38,11 @@
     <color name="widget_md3_bg_color">@color/lighterColorSurface</color>
     <color name="widget_circle_button_color">@color/md_indigo_A400</color>
     <color name="widget_md3_button_bg_color">@color/lighterColorSurface</color>
+
+    <!-- Spotify Colors -->
+    <color name="spotify_green">#1db954</color>
+    <color name="spotify_dark_1">#212121</color>
+    <color name="spotify_dark_2">#121212</color>
+    <color name="spotify_grey_1">#535353</color>
+    <color name="spotify_grey_2">#b3b3b3</color>
 </resources>
