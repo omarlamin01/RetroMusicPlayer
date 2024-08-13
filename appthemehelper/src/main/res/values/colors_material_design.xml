@@ -42,4 +42,10 @@
     <color name="md_teal_A400">#1DE9B6</color>
     <color name="md_deep_orange_A400">#FF3D00</color>
     <color name="md_light_green_A400">#76FF03</color>
+
+    <color name="spotify_green">#1db954</color>
+    <color name="spotify_dark_1">#212121</color>
+    <color name="spotify_dark_2">#121212</color>
+    <color name="spotify_grey_1">#535353</color>
+    <color name="spotify_grey_2">#b3b3b3</color>
 </resources>
